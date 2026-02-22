@@ -1,0 +1,8 @@
+pymupdf
+langchain
+langchain_community
+langchain_nvidia_ai_endpoints
+langchain_text_splitters
+streamlit
+unstructured
+pdfminer
